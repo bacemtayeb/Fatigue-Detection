@@ -5,3 +5,4 @@ streamlit_embedcode
 IPython
 Pillow
 torchvision
+yaml
