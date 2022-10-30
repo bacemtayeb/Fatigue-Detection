@@ -2,3 +2,6 @@ scikit-learn
 opencv-python-headless
 torch
 streamlit_embedcode
+IPython
+Pillow
+pickle
