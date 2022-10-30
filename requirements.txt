@@ -1,10 +1,1 @@
-pickle
 scikit-learn
-cv2
-torch
-numpy
-os
-time
-sys
-PIL
-sys
